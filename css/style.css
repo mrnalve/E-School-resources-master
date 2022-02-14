@@ -167,3 +167,33 @@ ul,ol{
     font-weight: 400;
 }
 /* testimonial part ends */
+
+/* footer part starts */
+footer{
+    background-color: #282531;
+    padding: 50px 0 20px 0;
+    color: #ffffff;
+}
+.footer-card p{
+    font-size: 16px;
+    font-weight: 400;
+}
+footer h4{
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer-card ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 8px 0;
+    color: #ffffff;
+    display: inline-block;
+}
+.copyright p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #cdcdcd;
+    text-align: center;
+    margin-top: 80px;
+}
+/* footer part ends */

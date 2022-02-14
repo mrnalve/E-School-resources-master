@@ -20,6 +20,11 @@
     #banner .row{
         height: 650px;
     }
+    /* footer part */
+    .footer-card{
+        text-align: center;
+        margin: 25px 0;
+    }
 }
 
 
@@ -39,6 +44,11 @@
     }
     #online_course .card-body p span{
         float: none;
+    }
+    /* footer part */
+    .footer-card{
+        margin: 25px 0;
+        text-align: center;
     }
 }
 
